@@ -1,0 +1,20 @@
+- JSON comprador
+{
+	"investor_id": "Dieison",
+	"asset_id": "asset1",
+	"current_shares": 0,
+    "shares": 5,
+    "price": 5.0,
+    "order_type": "BUY"
+}
+
+- JSON vendedor
+{
+    "order_id": "1",
+	"investor_id": "Luana",
+	"asset_id": "asset1",
+	"current_shares": 10,
+    "shares": 5,
+    "price": 5.0,
+    "order_type": "SELL"
+}
