@@ -10,10 +10,6 @@ import (
 	"sync"
 
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
-	// "github.com/dieison-de-moura/marketInvest/goMarketService/internal/infra/kafka"
-	// "github.com/dieison-de-moura/marketInvest/goMarketService/internal/market/dto"
-	// "github.com/dieison-de-moura/marketInvest/goMarketService/internal/market/entity"
-	// "github.com/dieison-de-moura/marketInvest/goMarketService/internal/market/transformer"
 )
 
 func main() {
